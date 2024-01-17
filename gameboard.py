@@ -1,6 +1,3 @@
-#Name: Yumeng Liu
-#ID: 84419467
-
 class BoardClass:
     """The Tic-Tac-Toe game board
 
